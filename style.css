@@ -80,13 +80,14 @@
     font-size: 1.1rem;
   }
 }
-@media only screen and (min-width: 600px) {
+/* @media only screen and (min-width: 600px) {
   .modalContainer {
     width: 60%;
     height: 80%;
   }
   .top {
     height: 70%;
+    width: 100%;
   }
   .bottom {
     padding: 1.3rem;
@@ -97,4 +98,4 @@
   .bottomDesc {
     font-size: 1.6rem;
   }
-}
+} */
